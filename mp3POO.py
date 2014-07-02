@@ -1,13 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
+# Name:        Mp3 Searcher
+# Version:     v1.0
 # Author:      overloadfull
-#
+#Collaborator: kenkeiras
 # Created:     30/06/2014
 # Copyright:   (c) overloadfull 2014
-# Licence:     <your licence>
 #-------------------------------------------------------------------------------
+#Some bugs yet, but it makes his main function
 import urllib,urllib2
 import os
 
